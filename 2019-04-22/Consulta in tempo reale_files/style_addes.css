@@ -1,0 +1,203 @@
+
+#Tabella-Indicatori-Riordino-Trasparenza
+{
+
+}
+
+.resultTables tfoot
+{
+    display: none;
+}
+
+.LinkExport
+{
+    float: right;
+}
+
+#HomeAmmiSeaErr, #HomeInvalidUrlErr
+{
+    margin: 0;
+    padding:0;
+    font-size: 12px;
+    margin: 0 100px 0 100px;
+}
+
+    #HomeAmmiSeaErr a:link, #HomeAmmiSeaErr a:visited
+    {
+        color: #ffffff;
+        text-decoration: underline;
+    }
+
+    #HomeAmmiSeaErr a:hover
+    {
+        color: #ffffff;
+        text-decoration: underline;
+    }
+
+#HomeInvalidUrlErr a:link, #HomeInvalidUrlErr a:visited
+{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#HomeInvalidUrlErr a:hover
+{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#PaTocheckC
+{
+    position: relative;
+    z-index:10;
+}
+
+    #PaToCheckLoading
+    {
+        position: absolute;
+        z-index:100;
+        right: 10px;
+        top:10px;
+    }
+
+
+.logo_text h1
+{
+    font-size:45px;
+}
+
+.logo_wrapper {
+
+
+
+}
+
+#cosapuoifare
+{
+    background-color: #558ED5;
+    color: #ffffff;
+}
+
+.clearfixwnw
+{
+    clear: both;
+}
+
+.sfondo
+{
+    height: 435px;
+}
+
+.box_nhpo a:link,
+.box_nhpo a:visited
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+.box_nhpo a:hover
+{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.HSecondLink
+{
+    margin-left: 0 !important;
+}
+
+#SubmitButtonVTR
+{
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    right: 0;
+    width: 64px;
+    height: 48px;
+    padding: 0;
+    margin: 0;
+    background: #1276dc;
+    color: #ffffff;
+    border: none;
+    font-weight: 100;
+}
+
+
+#chartbar_tipologia_tutte
+{
+    cursor: pointer;
+    color: #195fd1;
+}
+
+#chartbar_provincia_tutte
+{
+    cursor: pointer;
+    color: #195fd1;
+}
+
+.ct-series-a .ct-point, .ct-series-a .ct-line, .ct-series-a .ct-bar, .ct-series-a .ct-slice-donut {
+    stroke: #0066cc !important;
+}
+
+.ct-label {
+    fill: #000000 !important;
+    color:#000000 !important;
+    font-size: 10px !important;
+
+}
+
+.chartist-tooltip {
+
+    background: #195fd1 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+
+@media (max-width: 640px) and (min-width: 320px) {
+
+
+
+    .ct-horizontal  {
+        display: none !important;;
+
+    }
+
+    .ct-bar {
+
+        stroke-width: 12px !important;
+    }
+}
+
+#ElaborazioneInCorso
+{
+    color: red;
+}
+
+
+ul.list-with-style
+{
+    list-style: disc;
+}
+
+.titleh5float
+{
+    float: left;
+}
+.legendTableResult
+{
+    float: right;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.table-striped .fa-smile-o.smilepicced
+{
+    font-size:20px;
+    padding-right: 7px;
+}
+
+.table-striped .fa-frown-o.smilepicced
+{
+    font-size:20px;
+    padding-right: 7px;
+    padding-left:5px;
+}

@@ -1,0 +1,25 @@
+#ELTO_AmministrazioneKeyContainer
+{
+    position: relative;
+}
+
+#ELTO_AmministrazioneKeyLoading
+{
+    position: absolute;
+    top:20px;
+    right: 0;
+}
+
+#SocialsLogin
+{
+    background: #1b376c;
+    padding:10px;
+    color: #ffffff;
+}
+
+#SocialsInfo
+{
+    background: #1b376c;
+    padding:10px;
+    color: #ffffff;
+}

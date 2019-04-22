@@ -1,0 +1,33 @@
+/* CORREZIONI tabelle */
+
+.table-striped td
+{
+    
+}
+
+
+.table-striped th
+{
+    word-break: normal;
+}
+
+.guida_label
+{
+    font-style: italic;
+}
+
+.guida_container
+{
+
+}
+    .guida_container p
+    {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .guida_container h4
+    {
+        font-size: 16px;
+        line-height: 16px;
+    }

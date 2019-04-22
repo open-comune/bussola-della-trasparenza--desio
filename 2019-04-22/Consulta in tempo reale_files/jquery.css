@@ -1,0 +1,73 @@
+ul.navgoco {
+
+    margin-top: 60px;
+    border-top: 1px solid #e7e6e4;
+}
+.navgoco {
+    margin: 0px;
+}
+.navgoco, .navgoco ul, .navgoco li {
+    list-style: none;
+}
+.navgoco > li {
+    border-bottom: 1px solid #e7e6e4;
+}
+.navgoco, .navgoco ul, .navgoco li {
+    list-style: none;
+}
+
+.navgoco > li > a {
+    font-size: 1em;
+    line-height: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.navgoco, .navgoco ul, .navgoco li {
+    list-style: none;
+}
+
+.navgoco ul {
+    padding: 0;
+    margin: 0 0 0 18px;
+}
+
+.navgoco {
+    padding: 4px;
+    margin: 0px;
+}
+
+.navgoco > li {
+    margin: 4px 0;
+}
+
+.navgoco > li li {
+    margin: 2px 0;
+}
+
+.navgoco a {
+    color: #333;
+    display: block;
+    outline: none;
+    text-decoration: none;
+}
+
+.navgoco li > a > span {
+    float: right;
+
+    font-weight: bolder;
+}
+
+.navgoco li > a:hover > span {
+    color: #fff;
+}
+
+.navgoco li > a > span:after {
+font-family: FontAwesome;
+content: "\f107";
+}
+.navgoco li.open > a > span:after {
+font-family: FontAwesome;
+content: "\f106";
+}
